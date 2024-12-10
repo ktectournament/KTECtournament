@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function () {
         `
         <h3>第一回 KTECポケポケMC</h3>
         <p>日程</p>
-        <table><tr><td>アッパーブラケット(UB)</td><td>12/19 16:30</td></tr><tr><td>ロウワーブラケット</td><td>12/19 16:30</td></tr><tr><td>グランドファイナル</td><td>12/20 16:30</td></tr></table>
+        <table><tr><td>アッパーブラケット(UB)</td><td>12/19 16:30</td></tr><tr><td>ロウワーブラケット(LB)</td><td>12/19 16:30</td></tr><tr><td>グランドファイナル(GF)</td><td>12/20 16:30</td></tr></table>
         <p>エントリーフォーム: <a href="https://forms.gle/AZq2ioSZoT34LNx38" target="_blank">ここをクリック</a></p>
         <p>トーナメント表: <a href="#">ここをクリック</a></p>
         <p>結果: 未定</p>
