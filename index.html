@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KTEC大会ルーム</title>
+    <link rel="stylesheet" href="modules/style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1><img src="images/logo.png" width="300"></h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#tournament-info">大会情報</a></li>
+                <li><a href="#results">結果・ランキング</a></li>
+            </ul>
+        </nav>
+        <!-- <button id="toggle-theme">ダークモード</button> -->
+    </header>
+
+    <main>
+        <section id="tournament-info">
+            <h2>大会情報</h2>
+            <div class="tournament-tiles">
+                <div class="tournament-tile" data-tournament="tournament1">
+                    <h3>第一回 KTECポケポケマスターズカップ</h3>
+                    <p>日付: 2024/12/16 ~ 2024/12/20 未定</p>
+                    <p>場  所 : 九州技術教育専門学校 熊本校 西棟 3F A</p>
+                </div>
+                
+            </div>
+            <div id="tournament-details" class="tournament-details hidden">
+                <h2>大会詳細</h2>
+                <div id="details-content"></div>
+                <button id="close-details">閉じる</button>
+            </div>
+        </section>
+
+        <!-- <section id="results">
+            <h2>結果・ランキング</h2>
+            <p>ここに結果やランキングを表示します。</p>
+            <ul>
+                <li>1位: プレイヤーA</li>
+                <li>2位: プレイヤーB</li>
+                <li>3位: プレイヤーC</li>
+            </ul>
+        </section> -->
+    </main>
+
+    <footer>
+        <p>&copy; 2024 KTEC大会. All rights reserved.</p>
+    </footer>
+
+    <script src="modules/script.js"></script>
+</body>
+</html>
