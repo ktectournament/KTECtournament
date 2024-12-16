@@ -22,6 +22,7 @@ document.addEventListener('DOMContentLoaded', function () {
         <p>日程</p>
         <table><tr><td>アッパーブラケット(UB)</td><td>12/19 16:30</td></tr><tr><td>ロウワーブラケット(LB)</td><td>12/19 16:30</td></tr><tr><td>グランドファイナル(GF)</td><td>12/20 16:30</td></tr></table>
         <p>エントリーフォーム: <a href="https://forms.gle/AZq2ioSZoT34LNx38" target="_blank">ここをクリック</a></p>
+        <p>エントリー可能期間: 12/19 ~13:00迄<p>
         <p>トーナメント表: <a href="#">準備中</a></p>
         <p>結果: 後日公開</p>
         <p>大会キャンセルは<a href="https://forms.gle/rN4eMGx5sH821J3Z9" target="_blank">こちら</a></p>    
